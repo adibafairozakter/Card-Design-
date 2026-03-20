@@ -17,6 +17,3 @@ It focuses on a clean design and meaningful message to share festive wishes onli
 
 ## Purpose
 This project was created to practice basic HTML skills and build a real-life themed mini project.
-
-## Author
-Adiba Fairoz Akter
